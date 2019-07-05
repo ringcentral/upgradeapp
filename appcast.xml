@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Rooms</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 04 Jul 2019 10:32:35 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="34340872" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/1.0.0/Rooms.app.zip" sparkle:edSignature="gRMaeD5SuF8L8bsUCgyTFy/+DIU1bG4YX7M01cR9OMenpCMB/A76kplT7SyJ8FvSD1cc9lcnizcb/JOleWyZDg==" sparkle:shortVersionString="1.0.0" sparkle:version="49014" />
+        </item>
+    </channel>
+</rss>
