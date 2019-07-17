@@ -6,7 +6,7 @@
             <title>1.0.0</title>
             <pubDate>Wed, 17 Jul 2019 18:44:46 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="61708824" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/1.0.0/Rooms.app.zip" sparkle:edSignature="AxCkZao9LgsBTNwGqlAxhJ7XPjr0GHmzIb3h+fIxp8SrDPhEOB1oKVvOp7ZRhumaWjc1O+H2EGYo0FRLBxm7BA==" sparkle:shortVersionString="1.0.0" sparkle:version="49564" />
+            <enclosure length="61708824" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/1.0.0/Rooms.app.zip" sparkle:edSignature="AxCkZao9LgsBTNwGqlAxhJ7XPjr0GHmzIb3h+fIxp8SrDPhEOB1oKVvOp7ZRhumaWjc1O+H2EGYo0FRLBxm7BA==" sparkle:shortVersionString="1.0.0" sparkle:version="49565" />
         </item>
     </channel>
 </rss>
