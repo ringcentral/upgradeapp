@@ -4,9 +4,9 @@
         <title>Rooms</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 18 Jul 2019 17:38:55 +0800</pubDate>
+            <pubDate>Fri, 19 Jul 2019 15:44:47 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="61709155" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/1.0.0/Rooms.app.zip" sparkle:edSignature="QPKpDUEzGrI7ZsmuwYAwkltXkqvQqvYzDpGK400Ti52HiSEDexNJImWZUFsGSQGt+IhhuT6VSZh4B9tHpQGMDg==" sparkle:shortVersionString="1.0.0" sparkle:version="49633" />
+            <enclosure length="61709066" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/1.0.0/Rooms.app.zip" sparkle:edSignature="SP/hiGqWnGqH3W6sEx4Or9+DgF+S8P3PwaX7vTrEIhQa9KCb3OrZIDUFeKVJGiTdZjfKfmisO9brboV12MjvCA==" sparkle:shortVersionString="1.0.0" sparkle:version="49678" />
         </item>
     </channel>
 </rss>
