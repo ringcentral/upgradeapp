@@ -3,10 +3,10 @@
     <channel>
         <title>Rooms</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 22 Jul 2019 14:55:01 +0800</pubDate>
+            <title>19.3.1</title>
+            <pubDate>Tue, 23 Jul 2019 10:45:22 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="61717167" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/1.0.0/Rooms.app.zip" sparkle:edSignature="C6iEqiPtVFE+inUX6iUuLKYGdWHXpw9Ys3CT/Bc9GkZoqyNuS9i7AsyfgeG2RJRSspF4Ms2TBcvOn9/M8q9BCQ==" sparkle:shortVersionString="1.0.0" sparkle:version="49723" />
+            <enclosure length="65645732" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/19.3.1/Rooms.app.zip" sparkle:edSignature="R9aglV0wSZ9cMZ422FfKHv/UziGn5aOLaOf4mw8XuOkAE0h6ndkWeM1+mbisX0XndE05KH1O1B0XAo2nHlzeCQ==" sparkle:shortVersionString="19.3.1" sparkle:version="49777" />
         </item>
     </channel>
 </rss>
