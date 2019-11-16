@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>RCV Rooms</title>
+        <title>Rooms</title>
         <item>
-            <title>19.4.10.0</title>
-            <pubDate>Thu, 14 Nov 2019 11:04:18 +0800</pubDate>
+            <title>19.3.21.0</title>
+            <pubDate>Sat, 16 Nov 2019 14:30:40 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="44611914" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/19.4.10.0/Rooms.app.zip" sparkle:edSignature="oDv7o1psEjgUMtJsz1DNw94RsvcdNLGKn/gFW/SKtYBsvcmGCKHomAhxMiUDeECCOh1lQiRp4C6us9lSp68uDQ==" sparkle:shortVersionString="19.4.10.0" sparkle:version="55033" />
+            <enclosure length="44319480" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/19.3.21.0/Rooms.app.zip" sparkle:edSignature="qPawqNPkJlRCYH7QHWczwK5iUyev4mNk544BqnO3Hgr+F4BZo/GmEH7qS+UReLe1pnmo+hKpLOUckIEtODIZCA==" sparkle:shortVersionString="19.3.21.0" sparkle:version="55110" />
         </item>
     </channel>
 </rss>
