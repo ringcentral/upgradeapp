@@ -4,9 +4,9 @@
         <title>RCV Rooms</title>
         <item>
             <title>19.4.22.0</title>
-            <pubDate>Tue, 31 Dec 2019 17:41:44 +0800</pubDate>
+            <pubDate>Thu, 02 Jan 2020 09:10:32 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="45893109" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/19.4.22.0/Rooms.app.zip" sparkle:edSignature="tP9TYZRlDVkrB1nl2zOATKmyz4tidiI9stUyy9MIPRaAUfhUf3c+xLjXSPxtBKIUuhroEyf+FokpWa+z1FRqBg==" sparkle:shortVersionString="19.4.22.0" sparkle:version="57424" />
+            <enclosure length="45893198" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/19.4.22.0/Rooms.app.zip" sparkle:edSignature="ka9eQPynMllMa27gpY/GICUj7orakYA6WxkIHarvtSEBHpBRAlb47Gn5wZirXzlMB/Z/QI965QIrSk2zzs3FCw==" sparkle:shortVersionString="19.4.22.0" sparkle:version="57491" />
         </item>
     </channel>
 </rss>
