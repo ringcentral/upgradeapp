@@ -3,10 +3,10 @@
     <channel>
         <title>RCV Rooms</title>
         <item>
-            <title>21.1.20.0</title>
-            <pubDate>Tue, 02 Feb 2021 09:56:28 +0800</pubDate>
+            <title>21.1.30</title>
+            <pubDate>Tue, 09 Mar 2021 18:37:43 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="41871279" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/21.1.20.0/Rooms.app.zip" sparkle:edSignature="R8WoQJyNbF1jmn1LAgmwQ09uyqsrreUU3OMHA+vLF9z+LcTXlb00+cbtnBLxzD/eaLnEjqJqoYB/R2JQsDSCBg==" sparkle:shortVersionString="21.1.20.0" sparkle:version="79934" />
+            <enclosure length="42772710" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms/21.1.30/Rooms.app.zip" sparkle:edSignature="1rwPC72n9tQ5nmBB4mTjV0fpUheSwi3IDdFS/5VN92hFxdexmpkBdD+yWiNduxXY5b8fz5RS4oeMdOD/MDS6Ag==" sparkle:shortVersionString="21.1.30" sparkle:version="81910" />
         </item>
     </channel>
 </rss>
