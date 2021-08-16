@@ -3,10 +3,10 @@
     <channel>
         <title>RingCentralVideo</title>
         <item>
-            <title>21.3.30</title>
-            <pubDate>Mon, 16 Aug 2021 09:54:59 +0800</pubDate>
+            <title>21.3.10</title>
+            <pubDate>Mon, 16 Aug 2021 10:06:48 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="46418387" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/21.3.30/Rooms.app.zip" sparkle:edSignature="0i2A3Tn7nz/fNK3KPqRGzYOeeXNhMMwVkp/cyjnaqmxkXAXauqz3M99djJmMLkk+lnXlZBfV43LsbxLUf4TEAw==" sparkle:shortVersionString="21.3.30" sparkle:version="93285" />
+            <enclosure length="52405238" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/21.3.10/Rooms.app.zip" sparkle:edSignature="b/PIdwUxSuyq44CM8g8/Uv2WnwT2zM2tGGXUs7yQCAhSyHVP4HY419H7BkyWGfN6OQD4MzXS6QAICSfF/hTkDA==" sparkle:shortVersionString="21.3.10" sparkle:version="93286" />
         </item>
     </channel>
 </rss>
