@@ -4,9 +4,9 @@
         <title>RingCentralVideo</title>
         <item>
             <title>21.4.20</title>
-            <pubDate>Fri, 29 Oct 2021 14:53:15 +0800</pubDate>
+            <pubDate>Fri, 29 Oct 2021 15:22:55 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="54653752" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/21.4.20/Rooms.app.zip" sparkle:edSignature="IB3hdYjBdb3+LImrAQGoOnihArvyPS3r01GUsXM7EBP+K4/Y353F0Aez8c/fSpmrKB1mIUwAw6TdSOtY8LxBDQ==" sparkle:shortVersionString="21.4.20" sparkle:version="98160" />
+            <enclosure length="54653057" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/21.4.20/Rooms.app.zip" sparkle:edSignature="+hifLkDWAKtHor7DFDnqjCmt8cC9kQXctdp8lZ0757pw3queHLUf2qurbT0vT4LN65QF5iryqtkLH6PdJ1JwBg==" sparkle:shortVersionString="21.4.20" sparkle:version="98164" />
         </item>
     </channel>
 </rss>
