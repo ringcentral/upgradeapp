@@ -8,5 +8,11 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure length="54553774" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/21.4.20/Rooms.app.zip" sparkle:edSignature="YLP1/jTM91HbxOOReLkbVc+F8Rhpjw73ujrJZheOchyJHsgabso0YmyhgHGmRdDaFsLCKrh/y/kiGifWjhZDCQ==" sparkle:shortVersionString="21.4.20" sparkle:version="100095" />
         </item>
+        <item>
+            <title>21.2.20</title>
+            <pubDate>Fri, 26 Nov 2021 10:08:44 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="54553774" type="application/octet-stream" url="Rooms.app.zip" sparkle:edSignature="YLP1/jTM91HbxOOReLkbVc+F8Rhpjw73ujrJZheOchyJHsgabso0YmyhgHGmRdDaFsLCKrh/y/kiGifWjhZDCQ==" sparkle:shortVersionString="21.2.20" sparkle:version="85310" />
+        </item>
     </channel>
 </rss>
