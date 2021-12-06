@@ -4,15 +4,9 @@
         <title>RingCentralVideo</title>
         <item>
             <title>21.4.20</title>
-            <pubDate>Thu, 25 Nov 2021 18:33:50 +0800</pubDate>
+            <pubDate>Mon, 06 Dec 2021 18:55:07 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="54553774" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/21.4.20/Rooms.app.zip" sparkle:edSignature="YLP1/jTM91HbxOOReLkbVc+F8Rhpjw73ujrJZheOchyJHsgabso0YmyhgHGmRdDaFsLCKrh/y/kiGifWjhZDCQ==" sparkle:shortVersionString="21.4.20" sparkle:version="100095" />
-        </item>
-        <item>
-            <title>21.2.20</title>
-            <pubDate>Fri, 26 Nov 2021 10:08:44 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="54553774" type="application/octet-stream" url="Rooms.app.zip" sparkle:edSignature="YLP1/jTM91HbxOOReLkbVc+F8Rhpjw73ujrJZheOchyJHsgabso0YmyhgHGmRdDaFsLCKrh/y/kiGifWjhZDCQ==" sparkle:shortVersionString="21.2.20" sparkle:version="85310" />
+            <enclosure length="95310189" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-TA/21.4.20/Rooms.app.zip" sparkle:edSignature="2tEo4LYzKa3qpMYvufJyrVul0uUpUjUh/BMqxA7CB9q6jP2iuVfWFM5WrjA7a22R+8tylWjhP/0U/Tjuh9CvAw==" sparkle:shortVersionString="21.4.20" sparkle:version="100875" />
         </item>
     </channel>
 </rss>
