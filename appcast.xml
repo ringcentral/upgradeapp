@@ -3,10 +3,16 @@
     <channel>
         <title>RingCentralVideo</title>
         <item>
-            <title>22.1.10</title>
-            <pubDate>Fri, 07 Jan 2022 12:59:52 +0800</pubDate>
+            <title>22.1.20</title>
+            <pubDate>Fri, 07 Jan 2022 13:58:39 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="98551647" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-QA/22.1.10/Rooms.app.zip" sparkle:edSignature="5bMSCnnCNALIggmHKvmgkqXLiQaB6A6dEPeYzQTJfStqYqgSU1QaQMi4ynBjjcnVSLPUofK4AWMx5rcKMt+QCQ==" sparkle:shortVersionString="22.1.10" sparkle:version="102727" />
+            <enclosure length="98550534" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-QA/22.1.20/Rooms.app.zip" sparkle:edSignature="xLTDc2xji0RwZYzWh9gWUBJ8O2xGa9VTnPHMElmKHlSTbx23Dit/g8VynaJpSOGYvfJMxJeXUfgEfyAWdfbXBQ==" sparkle:shortVersionString="22.1.20" sparkle:version="102730" />
+        </item>
+        <item>
+            <title>21.2.20</title>
+            <pubDate>Fri, 07 Jan 2022 13:58:39 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="98550534" type="application/octet-stream" url="Rooms.app.zip" sparkle:edSignature="xLTDc2xji0RwZYzWh9gWUBJ8O2xGa9VTnPHMElmKHlSTbx23Dit/g8VynaJpSOGYvfJMxJeXUfgEfyAWdfbXBQ==" sparkle:shortVersionString="21.2.20" sparkle:version="85310" />
         </item>
     </channel>
 </rss>
