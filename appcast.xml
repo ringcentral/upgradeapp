@@ -4,9 +4,9 @@
         <title>RingCentralVideo</title>
         <item>
             <title>22.1.10</title>
-            <pubDate>周五, 14 1月 2022 11:45:08 +0800</pubDate>
+            <pubDate>周五, 14 1月 2022 12:34:13 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="98578571" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-TA/22.1.10/Rooms.app.zip" sparkle:shortVersionString="22.1.10" sparkle:version="103127" />
+            <enclosure length="98578632" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-TA/22.1.10/Rooms.app.zip" sparkle:shortVersionString="22.1.10" sparkle:version="103131" />
         </item>
     </channel>
 </rss>
