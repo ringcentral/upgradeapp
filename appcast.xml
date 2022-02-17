@@ -8,5 +8,11 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure length="104040062" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/22.1.20/Rooms.app.zip" sparkle:shortVersionString="22.1.20" sparkle:version="104873" />
         </item>
+        <item>
+            <title>22.1.10</title>
+            <pubDate>周四, 17 2月 2022 16:43:51 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="104040062" type="application/octet-stream" url="Rooms.app.zip" sparkle:shortVersionString="22.1.10" sparkle:version="104315" />
+        </item>
     </channel>
 </rss>
