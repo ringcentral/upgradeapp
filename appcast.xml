@@ -3,10 +3,10 @@
     <channel>
         <title>RingCentralVideo</title>
         <item>
-            <title>22.1.20</title>
-            <pubDate>Tue, 22 Feb 2022 17:57:03 +0800</pubDate>
+            <title>22.1.25</title>
+            <pubDate>Mon, 28 Feb 2022 17:58:46 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="104038757" type="application/octet-stream" url="https://rooms.ringcentral.com/rooms/Mac/download/22.1.20/Rooms.app.zip" sparkle:edSignature="u8crLXwx/azd++K2gi6jO8yxXmW+hI3jMIvEvHPPk61T3beGAiDRjqG2Vo11Q3MgJsEnjrTpmrxMNuZ7nhNQAg==" sparkle:shortVersionString="22.1.20" sparkle:version="105060" />
+            <enclosure length="104041209" type="application/octet-stream" url="https://rooms.ringcentral.com/rooms/Mac/download/22.1.25/Rooms.app.zip" sparkle:edSignature="zCTeG1oGuYrU5B5VG1eqVRYbQz/xEILbVZcpP6IzgHQtXgyH4cKOiVirO9+hM+2p/Q9ZFh6Akf+aHuihxB+aAQ==" sparkle:shortVersionString="22.1.25" sparkle:version="105288" />
         </item>
     </channel>
 </rss>
