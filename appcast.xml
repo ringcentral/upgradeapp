@@ -4,9 +4,9 @@
         <title>RingCentralVideo</title>
         <item>
             <title>22.3.10</title>
-            <pubDate>Mon, 25 Jul 2022 12:46:14 +0800</pubDate>
+            <pubDate>周一, 25 7月 2022 16:19:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="124317254" type="application/octet-stream" url="https://rooms.ringcentral.com/rooms/Mac/download/22.3.10/Rooms.app.zip" sparkle:edSignature="wYR5Mv3l5S55AkWGLwa5sO42QwoPbeqHzzx3QsB5W3UMeHNAVJB0Laur/mMPwKQCjROQT2EQp2BKQQf1NG0xDg==" sparkle:shortVersionString="22.3.10" sparkle:version="116381" />
+            <enclosure length="124325738" type="application/octet-stream" url="https://rooms.ringcentral.com/rooms/Mac/download/22.3.10/Rooms.app.zip" sparkle:edSignature="/Sv6JWD7b6JP5/hjrPriD+ncvtUUPGhwsaCymGmdcCkbBKV+5puUQSzN8wdaz23p0YPou7JlGXaAKNvbwTUrAA==" sparkle:shortVersionString="22.3.10" sparkle:version="116417" />
         </item>
     </channel>
 </rss>
