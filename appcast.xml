@@ -3,10 +3,10 @@
     <channel>
         <title>RingCentralVideo</title>
         <item>
-            <title>22.4.30</title>
-            <pubDate>Thu, 03 Nov 2022 10:59:10 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure length="318933873" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/Rooms-debug/22.4.30/Rooms.app.zip" sparkle:edSignature="MRaHRPXUbbF4mcEuDDosaJAK6q0waCLDefspWG0EyHJ9AW2E6J6GuvkzKB0WvBPyHBF3g81xEiBqQyqPQYbDBA==" sparkle:shortVersionString="22.4.30" sparkle:version="123786" />
+            <title>23.1.10</title>
+            <pubDate>Thu, 08 Dec 2022 15:31:38 +0800</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure length="153810193" type="application/octet-stream" url="https://s3.amazonaws.com/com.ringcentral.rooms/dogfooding/23.1.10/Rooms.app.zip" sparkle:edSignature="YYLmyPFU30ysBtw9TLXS9J6UXkPpFd4yBHZUsrYcQXK/n5HR1twmgcFju0dO3Fk+R5dIq1Wqz9fsZNDmYGaqAA==" sparkle:shortVersionString="23.1.10" sparkle:version="126755" />
         </item>
     </channel>
 </rss>
